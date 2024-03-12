@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d77ae36-2f00-4464-ac05-9013496f5dbe" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DarkyenusTimeTracker">
+    <option name="totalTimeSeconds" value="74456" />
+    <option name="autoCountIdleSeconds" value="10" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2bA1P2Zb6y8jPwLolHQgg2T1hsD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Django Server.home.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;django.template.preview.state&quot;: &quot;SHOW_EDITOR&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Python/Projects/home-store-server/homestore&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python\Projects\home-server\home\media" />
+      <recent name="D:\Python\Projects\home-server\home\users\templates\users" />
+      <recent name="D:\Python\Projects\home-server\home\static" />
+      <recent name="D:\Python\Projects\home-server\home\goods" />
+      <recent name="D:\Python\Projects\home-server\home\templates\goods" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="home" type="Python.DjangoServer" factoryName="Django server">
+      <module name="home" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="home.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.11 (home-server)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-7a29c1521ef0-c986f194a52a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.11799.298" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d77ae36-2f00-4464-ac05-9013496f5dbe" name="Changes" comment="" />
+      <created>1705643041148</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705643041148</updated>
+      <workItem from="1705643043662" duration="530000" />
+      <workItem from="1705643579583" duration="207000" />
+      <workItem from="1705643904761" duration="384000" />
+      <workItem from="1705644883132" duration="616000" />
+      <workItem from="1705645506901" duration="234000" />
+      <workItem from="1705645766663" duration="47000" />
+      <workItem from="1705653285068" duration="610000" />
+      <workItem from="1705680481577" duration="5000" />
+      <workItem from="1705726845548" duration="1000" />
+      <workItem from="1706842829587" duration="7402000" />
+      <workItem from="1706873672267" duration="6090000" />
+      <workItem from="1706935630264" duration="7461000" />
+      <workItem from="1706962482270" duration="4734000" />
+      <workItem from="1707031987129" duration="14991000" />
+      <workItem from="1707057663816" duration="9628000" />
+      <workItem from="1707144638996" duration="49000" />
+      <workItem from="1707144696128" duration="8153000" />
+      <workItem from="1707270952168" duration="1699000" />
+      <workItem from="1707272970269" duration="2774000" />
+      <workItem from="1707328034459" duration="219000" />
+      <workItem from="1707328271722" duration="3685000" />
+      <workItem from="1707356429367" duration="8353000" />
+      <workItem from="1707368824488" duration="48000" />
+      <workItem from="1707368887475" duration="332000" />
+      <workItem from="1707395217618" duration="210000" />
+      <workItem from="1707395434352" duration="18000" />
+      <workItem from="1707395460320" duration="1962000" />
+      <workItem from="1707400326991" duration="9450000" />
+      <workItem from="1707452920424" duration="3643000" />
+      <workItem from="1707465654390" duration="7543000" />
+      <workItem from="1707484728816" duration="2139000" />
+      <workItem from="1707499911314" duration="157000" />
+      <workItem from="1707500080922" duration="3484000" />
+      <workItem from="1707617785421" duration="16000" />
+      <workItem from="1707630601643" duration="17992000" />
+      <workItem from="1707703639936" duration="12629000" />
+      <workItem from="1707747165310" duration="47000" />
+      <workItem from="1707747226198" duration="1843000" />
+      <workItem from="1707757605728" duration="7200000" />
+      <workItem from="1707837927847" duration="28000" />
+      <workItem from="1707889147941" duration="6971000" />
+      <workItem from="1708134961487" duration="8925000" />
+      <workItem from="1709988929067" duration="667000" />
+      <workItem from="1709997125458" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
